@@ -1,4 +1,4 @@
 # pkbitmap
 256bit private key bitmap
 
-![](http://github.com/dashuo556/pkbitmap/raw/master/screenshot.png)
+![](https://raw.githubusercontent.com/dashuo556/pkbitmap/master/screenshot.png)
